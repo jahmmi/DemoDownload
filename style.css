@@ -1,8 +1,6 @@
 body{
     background-color: #e0e0e0;
-    color: #f30000;
-    border-top-style:dashed ;
-    border-bottom-style:dashed ;
+
 }
 p{
 
@@ -11,7 +9,7 @@ p{
 }
 h1{
     color: #140101;
-    border-top-style:dashed ;
+ 
 }
 h2{
     color: #140101;
