@@ -1,25 +1,32 @@
 body{
-    background-color: #e0e0e0;
+    background-color: #474646;
 
 }
 p{
 
-    color: #140101;
+    color: #ffffff;
    
 }
 h1{
-    color: #140101;
+    color: #ffffff;
+    border: #6e9fa1 solid 7px;
+    border-right-width: 100px;
+    box-sizing: border-box 20px 20px;
+    
  
 }
 h2{
-    color: #140101;
+    color: #ffffff;
+    
 }
 h3{
-    color: #140101;
+    color: #ffffff;
     
 }
 img{
    width: 400px;
    height: 400px;
-   border: #140101 solid 5px;
+   border: #6e9fa1 solid 15px;
+   border-radius: 20px;
 }
+
